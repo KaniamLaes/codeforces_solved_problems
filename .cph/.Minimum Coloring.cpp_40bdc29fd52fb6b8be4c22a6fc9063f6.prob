@@ -1,0 +1,1 @@
+{"name":"Local: Minimum Coloring","url":"c:\\coding\\codeforcesPractice\\Minimum Coloring.cpp","tests":[{"id":1653409944826,"input":"2\n2 2\n1 1\n2 2\n2 3\n1 1\n1 2","output":"1 4\n4 2\n1 2 1\n2 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\coding\\codeforcesPractice\\Minimum Coloring.cpp","group":"local","local":true}
