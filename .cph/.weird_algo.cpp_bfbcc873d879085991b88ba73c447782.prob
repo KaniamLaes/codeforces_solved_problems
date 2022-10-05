@@ -1,0 +1,1 @@
+{"name":"Local: weird_algo","url":"c:\\coding\\CSES_Euler problems\\weird_algo.cpp","tests":[{"id":1651989880631,"input":"3","output":"3 10 5 16 8 4 2 1"},{"id":1651990060829,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\coding\\CSES_Euler problems\\weird_algo.cpp","group":"local","local":true}
